@@ -1,3 +1,9 @@
+# Flutter Bitcoin Ticker
+
+This repository contains my code solution for the project described below.
+The provided solution is
+[here](https://github.com/londonappbrewery/bitcoin-flutter-final).
+
 ![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
 
